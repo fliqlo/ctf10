@@ -16,6 +16,7 @@ they Are mY favorites. 😄
 • Made in the ph \
 • Two bOttle is the same, and the otheR two is the same also. \
 • Two bottle haS a 375ml in it, and thE other two has a 1000ml in it.
+• Small to big.
 
 # Sumbit the flag here:
 https://docs.google.com/forms/d/e/1FAIpQLSev4gMsCAGhInC96bV-SoNvldLUICHig4KrbE7wzoQeSUuRIA/viewform?usp=header

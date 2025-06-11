@@ -6,8 +6,9 @@ Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 In my room there's a four bottles. \
 I don't know what's the form, shape, color, \
 and name of this bottles. the only one I knew, \
-they are my favorites.
+they are my favorites. 😄
 
 # Hint:
-Two bottle is the same, and the other two are the same.
+• Two bottle is the same, and the other two is the same also.
+• Two bottle has a horse logo in it, and the other two has a T logo in it.
 

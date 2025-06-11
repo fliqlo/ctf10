@@ -9,6 +9,6 @@ and name of this bottles. the only one I knew, \
 they are my favorites. 😄
 
 # Hint:
-• Two bottle is the same, and the other two is the same also.
+• Two bottle is the same, and the other two is the same also. \
 • Two bottle has a horse logo in it, and the other two has a T logo in it.
 

@@ -10,7 +10,9 @@ they Are mY favorites. 😄
 
 📝 Direction:
 • Make a new fouR files using echo. \
-  and namE it with ______.bot, and the content of the files is accorDing to tHeir ml's. 
+  and namE it with ______.bot, and the content of the files is accorDing to tHeir ml's. \
+• Take a screenshot for four ______.bot files that you created. \ 
+  later upload the screenshot image in the submission form.
 
 # Hint:
 • Made in the ph \
